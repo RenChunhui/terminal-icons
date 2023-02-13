@@ -1,0 +1,14 @@
+{
+  "name": "terminal-icons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RenChunhui/terminal-icons.git",
+  "author": "Chunhui Ren <renchunhui2008@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "fantasticon"
+  },
+  "devDependencies": {
+    "fantasticon": "^2.0.0"
+  }
+}
