@@ -6,7 +6,7 @@
   "author": "Chunhui Ren <renchunhui2008@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "fantasticon"
+    "build": "node main.js"
   },
   "devDependencies": {
     "fantasticon": "^2.0.0"
